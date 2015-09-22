@@ -68,7 +68,6 @@ public class Inicial extends javax.swing.JFrame {
         jTextField1.setText("01/01/2000");
 
         jButton1.setText("Consultar");
-        jButton1.setToolTipText("");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
